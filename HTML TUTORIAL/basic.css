@@ -1,0 +1,21 @@
+h1{
+ color:black
+}
+
+
+
+#tagbaba{
+ color:blueviolet;   
+}
+
+.colour{
+    color:springgreen
+}
+body{
+    background-image: url('./ture.png');
+    background-repeat: no-repeat;
+    background-size:cover
+}
+.babu{
+    color: blueviolet;
+}
